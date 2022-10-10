@@ -6,3 +6,4 @@ this repository was created to store solutions from the competitive programming 
  1. FizzBuzz
  2. Simple Array Sum
  3. Compare The Triplets
+ 4. Time Conversion
