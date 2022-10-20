@@ -1,8 +1,8 @@
-# Solved Competitive Programming Challenge
+# 🎯 Solved Programming Challenge
 
-this repository was created to store solutions from the competitive programming exercises that I did
+📚 this repository was created to store solutions from the programming challenges practice that i did
 
-### List of Solved Question:
+### 📑 List of Solved Question:
  1. FizzBuzz
  2. Simple Array Sum
  3. Compare The Triplets
